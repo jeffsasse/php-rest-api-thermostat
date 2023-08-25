@@ -1,0 +1,7 @@
+Options +FollowSymLinks
+
+RewriteEngine on
+
+RewriteRule read read.php
+RewriteRule eq_read eq_read.php
+RewriteRule edit_temper edit_temper.php
