@@ -1,6 +1,8 @@
 # php-rest-api-thermostat
 PHP Rest API codebase with Thermostat
-!! No Frameworks !!
+<br>
+<span style="color: red;">!! No Frameworks !!</span>
+<br/>
 
 My primary focus has been on constructing the REST API using PHP. During the development process, I worked on establishing connections with thermostats via APIs. These APIs were designed to facilitate various functionalities, including reading thermostat information, creating new thermostats, and editing temperature settings.
 
